@@ -1,13 +1,18 @@
 # Image Resizer for Cordova #
+Forked from https://github.com/RTeran/cordova-plugin-image-resizer
+Legacy repository : https://github.com/JoschkaSchulz/cordova-plugin-image-resizer
 By: Protonet GmbH
 
-Authors: Joschka Schulz
+Authors: Joschka Schulz, RTeran
 
 ## Adding the Plugin ##
 
+#### Using Cordova
 Use the Cordova CLI and type in the following command:
 
-`cordova plugin add https://github.com/protonet/cordova-plugin-image-resizer.git`
+`cordova plugin add https://github.com/shide1989/cordova-plugin-image-resizer.git`
+
+#### Using Capacitor (TODO)
 
 ## Sample Code
 
